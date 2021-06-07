@@ -1,5 +1,7 @@
 # Git Commands
 
+For more check git commands [cheatsheet][github cheatsheet]
+
 | Command | Description |
 | --- | --- |
 | git init | initialize a new local repository |
@@ -11,3 +13,5 @@
 | git checkout -b \<branch X\> | create \<branch X\> |
 | git checkout \<branch X\> | change the branch to \<branch X\> |
 | git rebase \<branch X\> | rewrite whatever branch your are in based on \<branch X\> |
+
+[github cheatsheet]: https://education.github.com/git-cheat-sheet-education.pdf
